@@ -2,13 +2,13 @@
 			<!-- Global site navigation (included from global-nav.php) -->
 			<nav>
 				<ul>
-					<li><a href="/~Scott01/week-7/index.php" title="Go to the Home page">Home</a></li>
-					<li><a href="/~Scott01/week-7/red.php" title="Learn about red blocks">Red Blocks</a></li>
-					<li><a href="/~Scott01/week-7/blue.php" title="Learn about blue blocks">Blue Blocks</a></li>
-					<li><a href="/~Scott01/week-7/yellow.php" title="Learn about yellow blocks">Yellow Blocks</a></li>
-					<li><a href="/~Scott01/week-7/green.php" title="Learn about green blocks">Green Blocks</a></li>
-					<li><a href="/~Scott01/week-7/purple.php" title="Learn about purple blocks">Purple Blocks</a></li>
-					<li><a href="/~Scott01/week-7/about.php" title="Learn more about us">About</a></li>
+					<li><a href="/index.php" title="Go to the Home page">Home</a></li>
+					<li><a href="/red.php" title="Learn about red blocks">Red Blocks</a></li>
+					<li><a href="/blue.php" title="Learn about blue blocks">Blue Blocks</a></li>
+					<li><a href="/yellow.php" title="Learn about yellow blocks">Yellow Blocks</a></li>
+					<li><a href="/green.php" title="Learn about green blocks">Green Blocks</a></li>
+					<li><a href="/purple.php" title="Learn about purple blocks">Purple Blocks</a></li>
+					<li><a href="/about.php" title="Learn more about us">About</a></li>
 				</ul>
 			</nav>
 <!-- STEP 4: Modify all of the above href relative paths so that they start with '/' - this means that they all point to the host name, and that the files reside in the site's public directory -->
